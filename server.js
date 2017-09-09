@@ -38,5 +38,5 @@ app.get("/api/:from/:to/:value", (req, resp) => {
 
 
 app.listen(8888, "localhost", () => {
-    console.log("server started");
+    console.log("Server started at localhost:8888");
 });
