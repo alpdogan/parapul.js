@@ -1,0 +1,13 @@
+.container{
+    max-width: 400px;
+    padding: 20px;
+}
+.title{
+    margin-bottom: 50px;
+}
+.result-table{
+    display: none;
+}
+.swap-currency{
+    cursor: pointer;
+}
