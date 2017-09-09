@@ -1,7 +1,7 @@
 # parapul.js
 Convert currency with node.js, ejs
 
-Installation
+# Installation
 
-npm install
-node server.js
+<b>npm install</b> <br />
+<b>node server.js</b>
